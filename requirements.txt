@@ -1,5 +1,4 @@
-fyers-apiv2
-streamlit>=1.28.0
-pandas
-numpy
-plotly
+fyers-apiv2==3.0.8
+streamlit==1.28.0
+pandas==2.0.3
+requests==2.31.0
